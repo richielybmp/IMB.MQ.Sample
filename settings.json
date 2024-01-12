@@ -1,0 +1,7 @@
+{
+  "Channel": "DEV.APP.SVRCONN",
+  "Hostname": "localhost",
+  "Password": "passw0rd",
+  "Port": 1414,
+  "UserId": "app"
+}
