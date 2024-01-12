@@ -2,8 +2,8 @@
 
 
 ## Demo
-![Console](http://url/to/img.png)
-![Queue](http://url/to/img.png)
+![Console](https://github.com/richielybmp/IMB.MQ.Sample/blob/master/Console-sample.png)
+![Queue](https://github.com/richielybmp/IMB.MQ.Sample/blob/master/Console-queue.png)
 
 
 ## Imagem docker
