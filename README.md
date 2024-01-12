@@ -1,6 +1,11 @@
 # IMB.MQ.Sample
 
 
+## Demo
+![Console](http://url/to/img.png)
+![Queue](http://url/to/img.png)
+
+
 ## Imagem docker
 ```
 docker pull ibmcom/mq
@@ -31,7 +36,7 @@ Password: passw0rd
 ## Execução
 ### Configuração
 
-Parametrize os dados de conexão no arquivo "settings.json"
+Parametrize os dados de conexão no arquivo `settings.json`
 ```
 {
   "Channel": "DEV.APP.SVRCONN",
@@ -42,6 +47,6 @@ Parametrize os dados de conexão no arquivo "settings.json"
 }
 ```
 
-Obs.: essas são as configurações padrões. Deve usar o "channel" e o "userId" do exemplo. 
+Obs.: essas são as configurações padrões. Deve usar o `channel` e o `userId` do exemplo. 
 
 Para mais informações, acesse a documentação do IMB MQ [aqui](https://www.ibm.com/docs/en/ibm-mq/9.2?topic=programs-example-c-code-fragment-use-net).
